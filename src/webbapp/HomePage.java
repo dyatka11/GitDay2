@@ -1,6 +1,11 @@
 package webbapp;
 
 public class HomePage {
-    //Setting up gomepage
+    //Setting up go homepage
+
     //nav menu
+
+    //more things for the home page
+
+    //logo
 }
